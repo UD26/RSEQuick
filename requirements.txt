@@ -5,5 +5,5 @@ matplotlib
 folium
 geehydro
 ipywidgets
-skimage
+scikit-image
 IPython
