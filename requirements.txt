@@ -7,3 +7,4 @@ geehydro
 ipywidgets
 scikit-image
 IPython
+voila
